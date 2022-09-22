@@ -1,0 +1,12 @@
+li:not(:last-child) {
+    padding-bottom: 1rem;
+}
+
+.highlight {
+    padding: 0.25rem 1rem;
+    background-color: papayawhip;
+    border-radius: 3px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    font-size: 14px;
+    text-transform: capitalize;
+}
